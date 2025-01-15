@@ -1,0 +1,66 @@
+header {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+    font-family: cursive;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    z-index: 2;
+    display: inline-block;
+}
+body {
+        background-image: url(https://th.bing.com/th/id/OIP.ShAIIpU1Ul_QUiYUJza_rAHaFj?rs=1&pid=ImgDetMain); /*background image not working*/
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+}
+table{
+    border-collapse: collapse;
+    border: 1px black;
+    position: fixed;
+    width: 100%;
+    top: 100px;
+    z-index: 3;
+    background-color: rgb(108, 216, 216);
+} 
+.greekroman{
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.egyptian {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.norse {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.fariessprites {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.tefmc{
+    position: fixed;
+    left: 50px;
+    z-index: 4;
+}
+h2 {
+    position: relative;
+    top: 150px;
+    font-family: cursive;
+}
+p {
+    position: relative;
+    top: 160px;
+    font-family: cursive;
+}
+.form {
+    position: relative;
+    top: 300px;
+    left: 700px;
+}
+.form {
+    border: 4px rgb(108, 216, 216) solid;
+    display: inline-block;
+    background-color: rgb(108, 216, 216);
+}

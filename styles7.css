@@ -1,0 +1,205 @@
+header {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+    font-family: cursive;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    z-index: 2;
+    display: inline-block;
+}
+table{
+    border-collapse: collapse;
+    border: 1px black;
+    position: fixed;
+    width: 100%;
+    top: 100px;
+    z-index: 3;
+    background-color: rgb(108, 216, 216);
+} 
+.greekroman{
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.egyptian {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.norse {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.fariessprites {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.tefmc{
+    position: fixed;
+    left: 50px;
+    z-index: 4;
+}
+h2 {
+    position: relative;
+    top: 150px;
+    font-family: cursive;
+}
+p {
+    position: relative;
+    top: 160px;
+    font-family: cursive;
+}
+h3{
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+.button{
+    background-color: rgb(108, 216, 216);
+    top: 1000px;
+}
+.greekroman{
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.egyptian {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.norse {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.fariessprites {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.tefmc{
+    position: fixed;
+    left: 50px;
+    z-index: 4;
+}
+h2 {
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+p {
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+h3{
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+.greekroman{
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.egyptian {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.norse {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.fariessprites {
+    background-color: rgb(108, 216, 216);
+    text-align: center;
+}
+.tefmc{
+    position: fixed;
+    left: 50px;
+    z-index: 4;
+}
+h2 {
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+p {
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+h3{
+    position: relative;
+    font-family: cursive;
+    top: -400px;
+}
+.greeks{
+    position: relative;
+    left: 950px;
+    top: 300px;
+}
+.thegreeks{
+    position: relative;
+    left: 950px;
+    top: 300px;
+}
+.gods{
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
+.symbols{
+    position: relative;
+    top: 100px;
+}
+.zeus{
+    position: relative;
+    top: 700px;
+    left: 100px;   
+}
+.poseidon{
+    position: relative;
+    top: 1010px;   
+    left: -200px;
+}
+.hades{
+    position: relative;
+    top: 1000px;   
+    left: 1200px;
+}
+.hera{
+    position: relative;
+    top: 1300px;   
+    left: 1000px;
+}
+.demeter{
+    position: relative;
+    top: 1650px;   
+    left: 800px;
+}
+.athena{
+    position: relative;
+    top: 1900px;   
+    left: 670px;
+}
+.apollo{
+    position: relative;
+    top: 2200px;   
+    left: 500px;
+}
+.artemis{
+    position: relative;
+    top: 2550px;   
+    left: 350px;
+}
+.ares{  
+    position: relative;
+    top: 2800px;   
+    left: 300px;
+}
+.dionysus{
+    position: relative;
+    top: 3050px;   
+    left: 100px;
+}
+.hephaestus{
+    position: relative;
+    top: 3500px;   
+    left: -0px;
+}
